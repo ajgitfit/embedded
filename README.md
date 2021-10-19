@@ -1,5 +1,5 @@
 # embedded computing
-embedded platforms are used for exhaustive computations
+embedded platforms are used for intense computations
 
 image files are in folder Images
 
